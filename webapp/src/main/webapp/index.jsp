@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name mobeen</b></label>
+    <label for="Name"><b>Enter Genztech Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning Maven project </h1>
 
   
 </form>
